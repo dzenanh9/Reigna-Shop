@@ -40,7 +40,6 @@
                         </g>
                     </svg>
                 </div>
-                <div class="account">My account</div>
                 <div class="cart">
                     <div class="icon">
                         <svg xmlns="http://www.w3.org/2000/svg" width="31.5" height="36" viewBox="0 0 31.5 36">
